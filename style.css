@@ -1,0 +1,17 @@
+.body{
+    background-color: seashell;
+}
+
+h1{
+    text-align: center;
+    background-color: lightgray;
+    padding: 25px;
+}
+td {
+    text-align: center;
+}
+
+th{
+    background-color: lightblue;
+    padding: 25px;
+}

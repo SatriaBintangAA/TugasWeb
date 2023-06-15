@@ -1,0 +1,22 @@
+body{
+    padding: 6px;
+    box-sizing: border-box;
+    background-color: seashell;
+    border: 2px solid #ccc;
+}
+
+td{
+    margin-top: 10px;
+      float: left;
+      text-align: left;
+      width: 100%
+}
+
+input{
+    padding: 6px;
+      width: 100%;
+      box-sizing: border-box;
+      background: #f8f8f8;
+      border: 2px solid #ccc;
+      outline-color: lightblue;
+}
